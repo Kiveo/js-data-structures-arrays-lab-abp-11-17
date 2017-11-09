@@ -29,7 +29,7 @@ function prependDriver(name) {
 }
 
 function removeLastDriver() {
-  return drivers.slice(0, 5);
+  return drivers.slice(0, 4);
 }
 
 function removeFirstDriver() {
