@@ -17,6 +17,5 @@ function destructivelyRemoveFirstDriver() {
 }
 
 function appendDriver(name) {
-  var name = "Broom";
   const drivers2 = [ ...drivers, name];
 }
